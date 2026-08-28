@@ -13,6 +13,17 @@ description: >-
   and was acquired by Wonder Group, Inc. in January 2026, where it now scales inside Grubhub
   and Seamless. Claim publishes no developer program, no API reference, and no
   machine-readable contract of any kind.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 image: https://cdn.prod.website-files.com/671663e3283d42df61362740/6973e237337e7a6d15f9fc25_og-image-home-new.png
 url: https://raw.githubusercontent.com/api-evangelist/claim/refs/heads/main/apis.yml
 x-type: company
